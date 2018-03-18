@@ -84,3 +84,18 @@ The Twitter account will be used as the account that gets the tweets from other 
     ```
     node app.js
     ```
+
+## Contributors
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars0.githubusercontent.com/u/17964781?s=460&v=4" width="100px;"/><br /><sub><b>Nora AlNashwan</b></sub>](https://twitter.com/xnorax)<br />[💻](#Contributors "Code") [📖](#Contributors "Documentation")
+| :---: |
+
+This project follows the [all-contributors][all-contributors] specification.
+Contributions of any kind are welcome!
+
+[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[all-contributors]: https://github.com/kentcdodds/all-contributors
